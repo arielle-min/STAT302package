@@ -2,6 +2,7 @@
 # STAT302package
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/arielle-min/STAT302package/workflows/R-CMD-check/badge.svg)](https://github.com/arielle-min/STAT302package/actions)
 <!-- badges: end -->
 
 The goal of STAT302package is to ...
